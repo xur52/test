@@ -1,1 +1,5 @@
 124
+def main():
+	wu jia cheng de code
+	return wujiacheng
+
